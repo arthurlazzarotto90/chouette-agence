@@ -103,7 +103,7 @@ function inViewCheck() {
             var o = e.attr("class").replace("hideMe", "animated");
             e.css("visibility", "hidden").removeAttr("class"), setTimeout(function() {
                 e.attr("class", o).css("visibility", "visible")
-            }, .01)
+            }, .01);
         }
     })
 }
