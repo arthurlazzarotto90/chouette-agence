@@ -45,6 +45,7 @@ a:hover {
     position: relative;
 }
 
+
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
@@ -452,6 +453,7 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+  
 }
 
 .mg-lg {
@@ -653,8 +655,11 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
+h2 {
+    color: #F3976C!important;
+}
+
 h1,
-h2,
 h3,
 h4,
 h5,
@@ -665,6 +670,10 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
+    color: #575757!important;
+}
+.design  {
+   
     color: #575757!important;
 }
 
@@ -737,11 +746,11 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #F3976C!important;
 }
 
 h4 {
-    color: #333333!important;
+    color: #F3976C!important;
 }
 
 .icons {
