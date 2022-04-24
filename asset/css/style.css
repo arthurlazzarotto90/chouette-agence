@@ -8,7 +8,22 @@ body {
     
 }
 
+.sous_text{
+    background-color: #fffbfb;
+    font-size:x-large;
+    height: 200px;
+    padding-top: 55px;
+}
 
+.sitation{
+    font-style: italic;
+    background-color: #fffbfb;
+    font-size:x-large;
+    height: 250PX;
+    padding-top: 55px;
+   
+    
+}
 
 a,
 button {
